@@ -13,3 +13,19 @@ header{
     color: var(--mainLight);
     text-align: center;
 }
+#project-dir-card{
+    margin-top: 45px;
+    margin-left: 20px;
+    width: 100px;
+}
+.card-body{
+    background-color: var(--darkBlue);
+    color: var(--mainLight);
+}
+#add-button{
+    background-color: var(--mainLight);
+    color: var(--darkBlue);
+    border: var(--mainLight);
+}
+
+
