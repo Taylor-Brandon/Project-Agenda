@@ -1,0 +1,15 @@
+:root{
+    --mainLight: rgb(250, 246, 225);
+    --darkBlue: #162A2C;
+    --lightBlue: #aed4db;
+    --green: rgb(93, 130, 93);
+    --grey: #686867;
+}
+body{
+    font-family: 'Playfair Display', serif;
+}
+header{
+    background-color: var(--darkBlue);
+    color: var(--mainLight);
+    text-align: center;
+}

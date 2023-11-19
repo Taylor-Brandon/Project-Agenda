@@ -3,7 +3,7 @@ $('#date').text(date);
 
 function currentTime() {
     setInterval(function () {
-        var time = dayjs().format('hh:mm:ss');
+        var time = dayjs().format('hh:mm:ss a');
         $('#time').text(time);
     }, 1)
 }
