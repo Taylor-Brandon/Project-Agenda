@@ -8,4 +8,7 @@ function currentTime() {
     }, 1)
 }
 
+var myModal = $('myModal');
+var myInput = $('myInput');
+
 currentTime();
