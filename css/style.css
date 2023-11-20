@@ -1,0 +1,51 @@
+:root{
+    --mainLight: rgb(250, 246, 225);
+    --darkBlue: #162A2C;
+    --lightBlue: #aed4db;
+    --green: rgb(93, 130, 93);
+    --grey: #686867;
+}
+body{
+    font-family: 'Playfair Display', serif;
+}
+header{
+    background-color: var(--darkBlue);
+    color: var(--mainLight);
+    text-align: center;
+}
+#project-dir-card{
+    margin-top: 45px;
+    margin-left: 20px;
+    width: 100px;
+}
+.card-body{
+    background-color: var(--darkBlue);
+    color: var(--mainLight);
+}
+#add-button{
+    background-color: var(--mainLight);
+    color: var(--darkBlue);
+    border: var(--mainLight);
+}
+.modal-title{
+    color: var(--darkBlue);
+}
+.form-control{
+    background-color: var(--mainLight);
+    color: var(--darkBlue);
+}
+.form-select{
+    background-color: var(--mainLight);
+    color: var(--darkBlue);
+}
+#date-select{
+    background-color: var(--mainLight);
+    color: var(--darkBlue);
+}
+#project-button{
+    color: var(--mainLight);
+    background-color: var(--darkBlue);
+}
+
+
+
