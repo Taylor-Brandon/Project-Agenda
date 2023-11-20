@@ -27,5 +27,25 @@ header{
     color: var(--darkBlue);
     border: var(--mainLight);
 }
+.modal-title{
+    color: var(--darkBlue);
+}
+.form-control{
+    background-color: var(--mainLight);
+    color: var(--darkBlue);
+}
+.form-select{
+    background-color: var(--mainLight);
+    color: var(--darkBlue);
+}
+#date-select{
+    background-color: var(--mainLight);
+    color: var(--darkBlue);
+}
+#project-button{
+    color: var(--mainLight);
+    background-color: var(--darkBlue);
+}
+
 
 
